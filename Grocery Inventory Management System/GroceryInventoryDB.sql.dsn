@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server Native Client 11.0
+UID=asharm20
+WSID=IST-RL-GANON
+APP=Microsoft Office 2016
+Trusted_Connection=Yes
+SERVER=IST-S-STUDENTS.SYR.EDU
